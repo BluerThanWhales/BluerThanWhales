@@ -46,7 +46,7 @@ print('Hello World')
 
 |First Chart|Example|
 |:--:|:--:|
-|Input Picture|![KakaoTalk_20210310_011032322_03](https://user-images.githubusercontent.com/76213317/116896333-1c3c6700-ac6f-11eb-8366-5ab43b6f4341.jpg width = "400")|
+|Input Picture|![KakaoTalk_20210310_011032322_03](https://user-images.githubusercontent.com/76213317/116896333-1c3c6700-ac6f-11eb-8366-5ab43b6f4341.jpg)|
 |Input Link|[To Learn More](https://wikidocs.net/1678)
 
 
