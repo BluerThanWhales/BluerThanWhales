@@ -11,12 +11,15 @@ Normal Writings
 ___
 
 If you want **bold** insert two stars between the word
+
 If you want *Italic* insert one star each between the word
+
 If you want ~~strikethrough~~ insert two ~ between the word
 
 > Quoting uses >
 
 * You can make dots with * and -
+
 1. number lists can be made with 2.
 
 Trying to make Links, 
@@ -27,10 +30,27 @@ Click [here] (http://www.google.com)
 
 <!-- Table -->
 
-\Header\Description\
-\--\--\
-\Cell1\Cell2\
-\Cell1\Cell2\
+|Header|Description|
+|--|--|
+|Cell1|Cell2|
+|Cell1|Cell2|
+
+To highlight a code, use `highlighted.pring(message)` by using the key above Tab
+
+Trying to make a Code Block, use Three of the ones you used above
+
+```{.python}
+print('Hello World')
+```
+
+
+|First Chart|Example|
+|:--:|:--:|
+|Input Picture|![KakaoTalk_20210310_011032322_03](https://user-images.githubusercontent.com/76213317/116896333-1c3c6700-ac6f-11eb-8366-5ab43b6f4341.jpg width = "400")|
+|Input Link|[To Learn More](https://wikidocs.net/1678)
+
+
+
 
 
 
