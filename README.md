@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @George
+- 👋 Hi, I’m George
 - 👀 I’m interested in Everything
 - 🌱 I’m currently learning Python and Basics for AI
 - 
