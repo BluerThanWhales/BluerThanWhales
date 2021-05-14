@@ -16,7 +16,8 @@ If you want *Italic* insert one star each between the word
 
 If you want ~~strikethrough~~ insert two ~ between the word
 
-> Quoting uses >
+> Quoting uses
+> You Can Quote With This
 
 * You can make dots with * and -
 
