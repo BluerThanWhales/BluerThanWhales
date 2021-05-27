@@ -51,7 +51,7 @@ print('Hello World')
 |Input Link|[To Learn More](https://wikidocs.net/1678)
 
 
-> Erase +1 +2 +3 +4 +5
+> Erase +1 +2 +3 +4 +5 +6
 
 
 
